@@ -15,7 +15,11 @@ nishto ne razbrah...Proba 321
     
     <style>html{background:yellow;color:red;font-size:50px;text-align: center;}
     </style>
+<<<<<<< HEAD
     <h1> Hello Moro</h1>
+=======
+    <h1> Hello Gesh</h1>
+>>>>>>> 2e09dfceb8780dc249d298cf9d1e999af68ccedf
     <a href="http://localhost:3000/catalog ">catalog</a>
 </body>
 </html>
