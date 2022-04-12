@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <style>html{background:yellow;color:red;font-size:50px;text-align: center;}
+    <style>html{background:yellow;color:red;font-size:60px;text-align: center;}
     </style>
     <h1> Hello Moro</h1>
     <a href="http://localhost:3000/catalog ">catalog</a>
